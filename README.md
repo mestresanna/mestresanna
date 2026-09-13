@@ -1,6 +1,6 @@
 # Hi, I'm Anna
 
-**AI Engineer · Applied Computer Science · Builder**
+**AI / Software Engineer · Applied Computer Science · Builder**
 
 I’m an Applied Computer Science graduate with a background in **design, technology, and AI**.
 I enjoy turning complex problems into practical systems, especially where **AI meets real-world applications**.
